@@ -1,0 +1,25 @@
+Current configuration: almost full install of Slackware 14.2 (no kde) + some
+extra packages, which are listed below
+
+-rw-r--r--  1 root root     856 Oct 13 23:28 acpica-20160108-x86_64-1_SBo
+-rw-r--r--  1 root root   13255 Oct 14 15:01 chromium-48.0.2564.97-x86_64-1_SBo
+-rw-r--r--  1 root root    9192 Oct 14 16:16 ffmpeg-2.8.7-x86_64_custom-1_SBo
+-rw-r--r--  1 root root    1204 Oct 14 00:17 gitstats-20160102-x86_64-1_SBo
+-rw-r--r--  1 root root   38083 Oct 14 17:22 glade-3.18.3-x86_64-1_SBo
+-rw-r--r--  1 root root   24920 Oct 14 17:38 gtksourceview3-3.18.4-x86_64-1_SBo
+-rw-r--r--  1 root root    2832 Oct 14 15:03 lua-5.1.5-x86_64-1_SBo
+-rw-r--r--  1 root root    5243 Oct 14 17:38 mousepad-0.4.0-x86_64-1_SBo
+-rw-r--r--  1 root root    1042 Oct 14 00:07 ninja-1.7.1-x86_64-1_SBo
+-rw-r--r--  1 root root    5711 Oct 13 22:56 openconnect-7.06-x86_64-1_SBo
+-rw-r--r--  1 root root   88403 Oct 14 01:20 pycharm-2016.2.3-noarch-1_SBo
+-rw-r--r--  1 root root  496660 Oct 13 22:19 python3-3.5.2-x86_64-1_SBo
+-rw-r--r--  1 root root    6064 Oct 13 23:53 skype-4.3.0.37-i486-1_SBo
+-rw-r--r--  1 root root   30742 Oct 13 22:39 terminator-0.98-x86_64-1_SBo
+-rw-r--r--  1 root root   94392 Oct 14 00:04 virtualbox-5.0.14-x86_64-1_SBo
+-rw-r--r--  1 root root    3051 Oct 17 11:30 virtualbox-extension-pack-5.0.14-x86_64-1_SBo
+-rw-r--r--  1 root root    1094 Oct 13 23:16 virtualbox-kernel-5.0.14_4.4.14-x86_64-1_SBo
+-rw-r--r--  1 root root   57009 Oct 14 16:27 vlc-2.2.4-x86_64-1_SBo
+-rw-r--r--  1 root root     925 Oct 18 08:33 xcalib-0.8-x86_64-1_SBo
+-rw-r--r--  1 root root    2457 Oct 13 23:59 xrdp-0.6.1-x86_64-2_SBo
+-rw-r--r--  1 root root   26452 Oct 13 23:48 zim-0.65-x86_64-1_SBo
+
