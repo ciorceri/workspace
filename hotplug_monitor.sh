@@ -6,10 +6,13 @@
 
 # This script is run at XFce startup (Settings Manager -> Session and Startup -> Application Autostart)
 
+#!/bin/bash
+
 xrandr --setprovideroutputsource 1 0
-sleep 2
+sleep 1
 xrandr --output DP-1-1 --primary --auto --output eDP1 --right-of DP-1-1 --auto
-sleep 2
+sleep 1
+xrandr --output eDP1 --mode 1600x900
+sleep 1
 xcalib -c
 xcalib -blue 1.0 1.0 80.0 -a
-
